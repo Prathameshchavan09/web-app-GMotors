@@ -1,0 +1,136 @@
+.bg-custom {
+	background: black;
+}
+
+.navbar .nav-item .nav-link {
+	font-size: 20px;
+	color: white;
+}
+
+.navbar .nav-item .nav-link:hover {
+	background-color: white;
+	color: black;
+	border-radius: 20px;
+}
+
+.card-img-top {
+    flex-grow: 1;
+    object-fit:contain;
+	
+}
+
+.contactColor{
+	color:blue;
+}
+
+.card-title{
+font-family: Georgia, serif;
+font-feature-settings: "smcp", "zero";
+font-weight: bold;
+font-variation-settings: 'wdth' 25;
+  text-shadow: 0 0 2px green, 0 0 7px red;
+
+    font-size:22px;
+	
+		
+}
+
+
+.card-text{
+	 text-shadow: 0 0 1px black, 0 0 10px yellow;
+}
+
+.fa-asterisk:before{
+	font-size:7px;
+	color:red;
+}
+
+.aboutusWelcomeColor{
+	font-family: fantasy;
+	color:darkblue;
+	font-size:28px;
+	
+}
+
+
+.aboutUsnavbarColor{
+	color:blue;
+}
+
+.cardColorAboutUs{
+	display:flex;
+	background: linear-gradient(to top,#D1D0CE 0%, #D1D0CE 100%);
+}
+
+.cardHeaderColorAboutUs{
+	
+	background: linear-gradient(to top, #D1D0CE 0%, #D1D0CE 100%);
+}
+
+.bg-light{
+	background: linear-gradient(to top,#D1D0CE 0%,#D1D0CE 100%);
+}
+
+.aboutusInfo{
+	font-size:18px;
+	font-family: serif;
+	letter-spacing: 1px;
+}
+
+.navbar-light .navbar-brand{
+	background-color:black;
+	color:white;
+	border: 2px solid red;
+	border-radius:30px;
+	padding: 12px;
+}
+
+.aboutUsfooter{
+	font-family: fantasy;
+	color:darkblue;
+	font-size:28px;
+	
+}
+.quoteBottom{
+	color:red;
+	font-size:18px;
+	margin-left:400px;
+}
+.footerColor{
+	color:red;
+	font-size:18px;
+}
+
+.Goback{
+	
+	float:right;
+	margin-right:60px;
+    background-color:black;
+	color:white;
+	border: 2px solid red;
+	border-radius:30px;
+	padding: 12px;
+    
+}
+
+.Enquiry{
+	 background-color:black;
+	color:white;
+	border: 2px solid red;
+	border-radius:30px;
+	padding: 5px;
+	font-size:15px;
+    
+}
+
+.Enquiry:hover{
+	 background-color:black;
+	color:yellow;
+	text-decoration:none;
+	border: 2px solid red;
+	border-radius:30px;
+	padding: 5px;
+	font-size:15px;
+    
+}
+
